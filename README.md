@@ -1,5 +1,5 @@
 ------------------------------
-Librerias Necesarias Para Que Corra La Libreria: 
+Librerias Que Usa La Libreria: 
 * "string"
 * "iostream"
 * "std"
