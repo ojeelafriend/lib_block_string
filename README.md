@@ -1,5 +1,5 @@
 ------------------------------
-Librerias Que Usa La Libreria: 
+Librerias Usadas:
 * "string"
 * "iostream"
 * "std"
